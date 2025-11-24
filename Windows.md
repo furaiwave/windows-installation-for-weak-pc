@@ -127,6 +127,7 @@ LabConfig
 BypassTPMCheck        = 1
 BypassSecureBootCheck = 1
 BypassRAMCheck        = 1
+BypassCPUCheck        = 1
 ```
 
 6. Close the window and continue the installation.
